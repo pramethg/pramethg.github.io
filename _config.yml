@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prameth Gaddale"
-title_separator          : "-"
+title                    : #"Prameth Gaddale"
+title_separator          : #"-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prameth Gaddale"
 description              : "Prameth Gadddale' personal website"
@@ -79,6 +79,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+header:
+  image: /assets/images/nittanylion.jpg
+  image_description: "Nittany Lion"
+
 # Social Sharing
 twitter:
   username               :
@@ -106,7 +110,7 @@ analytics:
 author:
   name             : "Prameth Gaddale"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BME PennState"
+  bio              : "BME PSU"
   location         : "State College, PA"
   email            :
   links:
