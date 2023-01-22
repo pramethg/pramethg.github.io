@@ -79,11 +79,6 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
-# Header Image
-header:
-  overlay_image: "/assets/images/nittanylion.jpg"
-  caption: "Nittany Lion Shrine, PSU"
-
 # Social Sharing
 twitter:
   username               :
