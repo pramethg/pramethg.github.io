@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Prameth Gaddale"
-title_separator          : #"-"
+title                    : "Prameth Gaddale"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prameth Gaddale"
 description              : "Prameth Gadddale' personal website"
@@ -79,9 +79,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+# Header Image
 header:
-  image: /assets/images/nittanylion.jpg
-  image_description: "Nittany Lion"
+  overlay_image: "/assets/images/nittanylion.jpg"
+  caption: "Nittany Lion Shrine, PSU"
 
 # Social Sharing
 twitter:
@@ -109,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Prameth Gaddale"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/spacex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BME PSU"
   location         : "State College, PA"
   email            :
