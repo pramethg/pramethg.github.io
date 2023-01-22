@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Prameth Gaddale"
   avatar           : "/assets/images/spacex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "BME PSU"
+  bio              : "Biomedical Engineering, Pennsylvania State University"
   location         : "State College, PA"
   email            :
   links:
@@ -131,6 +131,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/prameth/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=NDbJNMUAAAAJ"
 
 # Site Footer
 footer:

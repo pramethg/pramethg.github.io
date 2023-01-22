@@ -2,12 +2,14 @@
 layout: archive
 ---
 
+{{ content }}
+
 <div class="page__content" style="width:100%">
   {% capture my_include %}{% include home.md %}{% endcapture %}
   {{ my_include | markdownify }}
 </div>
 
-<!-- {{ content }}
+<!--
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
