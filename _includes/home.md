@@ -1,5 +1,5 @@
 I am a current MS student at [BME, Pennsylvania State University](https://www.bme.psu.edu/) working with [Sri-Rajashekhar Kothapalli](https://www.bme.psu.edu/department/directory-detail-g.aspx?q=szk416) in the [BioPhotonics and Ultrasound Imaging Laboratory](https://sites.psu.edu/biophotonicsandultrasoundimaginglab/).
-My current focuses are at the intersection **Biomedical Imaging** and **Machine Learning**. I'm broadly interested in deep unsupervised learning, photoacoustic imaging and ultrasound imaging.
+My current focuses are at the intersection of **Biomedical Imaging** and **Machine Learning**. I'm broadly interested in deep unsupervised learning, photoacoustic imaging and ultrasound imaging.
 
 Before joining Penn State, I've spend time at the Sonoprocess Engineering Laboratory working with [Prof. Shirish Sonawane](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16328).
 
