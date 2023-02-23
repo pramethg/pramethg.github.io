@@ -5,7 +5,12 @@ Before joining Penn State, I've spend time at the Sonoprocess Engineering Labora
 
 ## Publications
 
-1. **Learning Optical Scattering Through Symmetrical Orthogonality Enforced Independent Components for Unmixing Deep Tissue Photoacoustic Signals**<br />[[<span class="small__tt">**IEEE Sensors Letters**</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634)] [[<span class="small__tt">**DOI**</span>](https://doi.org/10.1109/LSENS.2021.3073927)]<br />
+1. **Recent Progress in Intensifying Synthesis of Acrylic Microspheres for Catalysis**<br />[[<span class="small__tt">**Advanced Materials Interfaces**</span>](https://onlinelibrary.wiley.com/journal/21967350)] [[<span class="small__tt">**DOI**</span>](https://doi.org/)]<br />
+    **Prameth Gaddale**, Manoj B. Kale, Sivaprakash Srinivasan, Rahul Anil Borse, Gunvant H. Sonawane, Rajmohan K. Soundararajan, Shirish H. Sonawane
+   
+   <img title="" src="/assets/images/ADIREVIEW.jpg" alt="" style="width:100%;margin-top:2.5%" width="642">
+
+2. **Learning Optical Scattering Through Symmetrical Orthogonality Enforced Independent Components for Unmixing Deep Tissue Photoacoustic Signals**<br />[[<span class="small__tt">**IEEE Sensors Letters**</span>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634)] [[<span class="small__tt">**DOI**</span>](https://doi.org/10.1109/LSENS.2021.3073927)]<br />
     Sumit Agrawal, **Prameth Gaddale**, Sri Phani Krishna Karri, Sri-Rajasekhar Kothapalli
    
    <img title="" src="/assets/images/IEEESL.jpg" alt="" style="width:100%;margin-top:2.5%" width="642">
