@@ -1,7 +1,90 @@
----
-layout: home
-classes: wide
-author_profile: true
-header:
-    overlay_image: "/assets/images/nittanylion.jpg"
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>prameth</title>
+    <style>
+      body {
+        font-family: monospace;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      content {
+        flex: 1;
+      }
+      footer {
+        text-align: center;
+      }
+      .hidden {
+        display: none;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
+    <script>
+      function toggleImage() {
+        var image = document.getElementById("image1");
+        if (image.style.display === "none") {
+          image.style.display = "block";
+        } else {
+          image.style.display = "none";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <content>
+      <b>prameth's</b> homepage on the internet, doesn't this page showcase some
+      cool web dev skills?! <br />
+      <br />
+      i'm currently a biomedical engineering graduate student at penn
+      state(expected dec'24).
+      <br />
+      <br />
+      i'm currently associated with the
+      <a href="https://sites.psu.edu/biophotonicsandultrasoundimaginglab/"
+        >biophotonics and ultrasound imaging laboratory</a
+      >
+      <br />
+      <br />
+      you can check my work on
+      <a href="https://github.com/pramethg/">github</a> and
+      <a
+        href="https://scholar.google.com/citations?user=NDbJNMUAAAAJ&hl=en&oi=ao"
+        >google scholar</a
+      >
+      <br />
+      <br />
+      find me elsewhere on
+      <a href="https://www.linkedin.com/in/prameth/">linkedin</a> <br />
+      <br />
+      <iframe
+        style="border-radius: 12px"
+        src="https://open.spotify.com/embed/episode/76S7Uxun09nWRBtCV13UsU/video?utm_source=generator"
+        width="300"
+        height="390"
+        frameborder="0"
+        allowfullscreen=""
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy"
+      ></iframe>
+    </content>
+    <footer>
+      <p>
+        <big>&copy; 2024 prameth gaddale</big>
+        <button onclick="toggleImage()">footnote inspiration</button>
+      </p>
+      <div>
+        <img
+          src="assets/ss.png"
+          alt="bummer"
+          id="image1"
+          class="hidden"
+          height="256px"
+        />
+      </div>
+    </footer>
+  </body>
+</html>
